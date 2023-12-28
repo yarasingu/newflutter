@@ -1,0 +1,3 @@
+class ListbalanceItemModel {
+  String? id = "";
+}
